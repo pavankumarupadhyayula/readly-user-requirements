@@ -1,6 +1,4 @@
-## Readly Home Screen 
-
-# Writing the Jira story to a markdown file
+# Readly Home Screen 
 content = """# [PROJ-456] Build “Home” Feed Screen (Medium-Style)
 
 ## Description
